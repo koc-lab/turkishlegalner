@@ -1,5 +1,9 @@
 # LegalNER: Named Entity Recognition in Turkish Legal Text
 
+## Data and Results
+
+This repository is generated based on [Berkay Yazıcıoğlu](https://github.com/BerkayYazicioglu)'s [LegalNER](https://github.com/BerkayYazicioglu/LegalNER) implementation. However, due to GitHub LFS storage and bandwidth restrictions, some data and result files are moved to [Google Drive](https://drive.google.com/drive/folders/142Us0GfeEP_nXfZR90c1q_H3eoMwen50?usp=sharing) storage. The files under `data/vectors/*` and `src/*_results/*` are available under this [Google Drive link](https://drive.google.com/drive/folders/142Us0GfeEP_nXfZR90c1q_H3eoMwen50?usp=sharing). To get the full version of the repository, download and place necessary files from [Google Drive](https://drive.google.com/drive/folders/142Us0GfeEP_nXfZR90c1q_H3eoMwen50?usp=sharing), and place regarding the directory hierarchy.
+
 ## Data Format
 
 Follow the [`data/train_and_test`]
