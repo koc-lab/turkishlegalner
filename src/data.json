@@ -1,0 +1,10 @@
+{
+    "DATA_DIR": "../data",
+    "VECTOR_DIR": "../data/vectors",
+    "DATASET_DIR": "../data/train_and_test",
+    "TEST_FILE": "",
+    "INPUT_FILE": "",
+    "KFOLD_TAGS": "../data/train_and_test/dataset.tags.txt",
+    "KFOLD_WORDS": "../data/train_and_test/dataset.words.txt",
+    "KFOLD_COUNT": 5
+}
