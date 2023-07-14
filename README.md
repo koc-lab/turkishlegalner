@@ -1,4 +1,6 @@
-# LegalNER: Named Entity Recognition in Turkish Legal Text
+# TurkishLegalNER: Named Entity Recognition in Turkish Legal Text
+
+Source code for the paper [Named-entity recognition in Turkish legal texts](https://doi.org/10.1017/S1351324922000304). This work is the first legal domain-specific NER model for Turkish legal texts with a custom-made corpus as well as several NER architectures based on conditional random fields and bidirectional long-short-term memories to address the task.
 
 ## Data and Results
 
